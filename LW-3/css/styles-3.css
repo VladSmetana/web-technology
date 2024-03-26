@@ -1,0 +1,12 @@
+.paragraph{
+    color: blue;
+}
+.paragraph:nth-child(2){
+    color: orange;
+}
+.paragraph:nth-child(3){
+    color: red;
+}
+.paragraph:last-child{
+    color: green;
+}
